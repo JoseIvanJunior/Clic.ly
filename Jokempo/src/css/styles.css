@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+* {
+    margin: 0;
+    font-family: Comfortaa, Arial;
+}
+
+body {
+    position: relative;
+    background: #F7876F;
+}
+
+.container {
+    background-color: #F5E29B;
+    background-image: url('../assets/404.svg');
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+}
+
+.cabecalho ul {
+    float: right;
+}
+
+.cabecalho li {
+    text-decoration: none;
+}
